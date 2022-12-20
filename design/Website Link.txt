@@ -1,0 +1,11 @@
+https://themeforest.net/item/mingrand-real-estate-psd-template/28795786
+
+
+Colors
+
+Green = #5ba601
+Blue = #19294b
+Gray = #f3f3f3
+Gray1 = #f2f3f5
+Black  = #000000
+White = #ffffff

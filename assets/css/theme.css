@@ -1,0 +1,93 @@
+:root{
+    --green: #5ba601;
+    --blue: #19294b;
+    --blueTransparent:rgba(25, 33, 75, .8);
+    --gray: #f3f3f3;
+    --gray-1: #f2f3f5;
+    --black: #000000;
+    --white: #ffffff;
+}
+
+.bg-blue-transparent{
+    background-color: var(--blueTransparent);
+}
+
+.contact-wrapper{
+    background-color: var(--green);
+}
+
+.contact-social-info{
+    padding: 6px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.contact-social-info ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.contact-social-info ul li a{
+    padding: 12px; 
+    text-decoration: none;
+    color: var(--white);
+    font-size: 12px;
+}
+.contact-social-info ul li a:first-child{
+    padding-left: 0; 
+}
+
+.header .navbar{
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}
+.search-area{
+    background-color: var(--gray);
+}
+.search-choice .form-check{
+    margin-right: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 767.98px) {
+   
+}
+@media (max-width: 991.98px) {
+   
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+}
